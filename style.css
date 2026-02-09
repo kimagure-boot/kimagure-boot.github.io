@@ -1,4 +1,6 @@
 body {
+  background-image: url("images/library.png");
+  background-size: cover;
   margin: 0;
   padding: 0;
 }
