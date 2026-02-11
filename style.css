@@ -1,6 +1,6 @@
 body {
   background-image: url("images/library.png");
-  background-size: 110% auto;
+  background-size: cover;
   margin: 0;
   padding: 0;
 }
